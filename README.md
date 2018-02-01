@@ -18,8 +18,9 @@ use wget or curl, which amounts to automating the login procedure, thereby
 obviating the need to interact with the stupid fucking captive portal any more
 than necessary. And if it changes, I'll just do it again. Becaue I am annoyed.
 I am annoyed by the illusion of security it presents and really, it doesn't take
-alot of creativity to imagine a person who was sitting undermining it. If it's
-open, tell them it's open. If it's secure, secure it well.
+alot of creativity to imagine a person who was sitting where I was sitting
+undermining it. If it's open, tell them it's open. If it's secure, secure it
+well.
 
 ## usage
 
